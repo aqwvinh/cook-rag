@@ -1,0 +1,4 @@
+config:
+  gcp:project: cook-rag
+  gcp:region: us-east1
+  cookrag-infra:bucketName: cook-rag-bucket
